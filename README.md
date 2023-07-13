@@ -4,6 +4,10 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+```
+https://discord.gg/ZVh25pwSCM 
+```
+
 ## Description
 * German Language
  
