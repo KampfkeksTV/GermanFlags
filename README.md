@@ -12,13 +12,14 @@ https://discord.gg/ZVh25pwSCM
 ```
 
 ## 📜 Description 📜
-* German Language
+
+🇩🇪
  
   Dieses Script ist eine Modifikation für den FiveM Multiplayer.
   Es beinhaltet vier Deutsche Flaggen Props die im 
   Game getauscht werden.
 
-* English Languag
+🇬🇧
   
   This script is a modification for the FiveM multiplayer.
   It contains four German flag props that can be 
@@ -35,6 +36,7 @@ Project is created with:
 Um diese Modifikation zu nutzen brauchen sie einen FiveM Roleplay Server 
 Der Ordner GermanFlags wird in den ''resources'' Ordner eingefügt.
 In der ''server.cfg' mit ''ensure GermanFlags'' gestartet
+
 
 🇬🇧
 
