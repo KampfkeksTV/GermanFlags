@@ -29,6 +29,16 @@ https://discord.gg/ZVh25pwSCM
 Project is created with:
 * OpenIV
 * Paint.net
+
+## 📌 Problems 📌
+
+🇩🇪
+
+Bei Probleme jeglicher Art mit dem Script bitte melden im Discord 
+
+🇬🇧
+
+If you have problems of any kind with the script, please report them in Discord 
 	
 ## Setup
 🇩🇪
@@ -48,11 +58,4 @@ Started in the ''server.cfg'' with ''ensure GermanFlags''.
 ensure GermanFlags
 ```
 
-## 📌 Problems 📌
-🇩🇪
 
-Bei Probleme jeglicher Art mit dem Script bitte melden im Discord 
-
-🇬🇧
-
-If you have problems of any kind with the script, please report them in Discord 
