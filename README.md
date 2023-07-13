@@ -46,7 +46,7 @@ Started in the ''server.cfg'' with ''ensure GermanFlags''.
 ensure GermanFlags
 ```
 
-## Problems
+## 📌 Problems 📌
 🇩🇪
 
 Bei Probleme jeglicher Art mit dem Script bitte melden im Discord 
