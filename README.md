@@ -23,7 +23,9 @@ Project is created with:
 * Paint.net
 	
 ## Setup
-To use this modification you need a FiveM Roleplay Server. 
+Um diese Modifikation zu nutzen brauchen sie einen FiveM Roleplay Server 
+Der Ordner GermanFlags wird in den ''resources'' Ordner eingefügt.
+In der ''server.cfg' mit ''ensure GermanFlags'' gestartet
 
 ```
 $ cd ../lorem
