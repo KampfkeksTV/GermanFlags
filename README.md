@@ -30,6 +30,8 @@ https://discord.gg/ZVh25pwSCM
   This script is a modification for the FiveM multiplayer.
   It contains four German flag props that can be 
   exchanged in the game.
+
+---------------------------------------------------
 	
 ## 💻 Technologies 💻
 Project is created with:
