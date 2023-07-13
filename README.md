@@ -13,9 +13,9 @@
 
 * English Languag
   
- This script is a modification for the FiveM multiplayer.
- It contains four German flag props that can be 
- exchanged in the game.
+  This script is a modification for the FiveM multiplayer.
+  It contains four German flag props that can be 
+  exchanged in the game.
 	
 ## Technologies
 Project is created with:
@@ -23,7 +23,7 @@ Project is created with:
 * Paint.net
 	
 ## Setup
-To run this project, install it locally using npm:
+To use this modification you need a FiveM Roleplay Server. 
 
 ```
 $ cd ../lorem
