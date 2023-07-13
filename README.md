@@ -4,6 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+* Discord Server Lifeservices
 ```
 https://discord.gg/ZVh25pwSCM 
 ```
