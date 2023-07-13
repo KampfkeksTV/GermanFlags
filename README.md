@@ -40,3 +40,10 @@ ensure GermanFlags
 ```
 
 ## Problems
+🇩🇪
+
+Bei Probleme jeglicher Art mit dem Script bitte melden im Discord 
+
+🇬🇧
+
+If you have problems of any kind with the script, please report them in Discord 
