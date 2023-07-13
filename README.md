@@ -69,5 +69,6 @@ Started in the ''server.cfg'' with ''ensure GermanFlags''.
 ```
 ensure GermanFlags
 ```
+---------------------------------------------------
 
 
