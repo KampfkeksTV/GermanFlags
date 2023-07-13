@@ -4,12 +4,15 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+  ---------------------------------------------------
+
 ## Discord
 
 * Discord Server Lifeservices
 ```
 https://discord.gg/ZVh25pwSCM 
 ```
+---------------------------------------------------
 
 ## 📜 Description 📜
 
