@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## Description
 * German Language
  
   Dieses Script ist eine Modifikation für den FiveM Multiplayer.
