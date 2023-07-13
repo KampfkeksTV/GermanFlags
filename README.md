@@ -24,7 +24,7 @@ https://discord.gg/ZVh25pwSCM
   It contains four German flag props that can be 
   exchanged in the game.
 	
-## Technologies
+## 💻 Technologies 💻
 Project is created with:
 * OpenIV
 * Paint.net
