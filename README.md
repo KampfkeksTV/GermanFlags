@@ -28,7 +28,5 @@ Der Ordner GermanFlags wird in den ''resources'' Ordner eingefügt.
 In der ''server.cfg' mit ''ensure GermanFlags'' gestartet
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+ensure GermanFlags
 ```
