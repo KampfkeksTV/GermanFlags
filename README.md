@@ -11,7 +11,7 @@
 https://discord.gg/ZVh25pwSCM 
 ```
 
-## Description
+## 📜 Description 📜
 * German Language
  
   Dieses Script ist eine Modifikation für den FiveM Multiplayer.
